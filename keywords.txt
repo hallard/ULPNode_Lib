@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring ULPNode 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ULPNode	KEYWORD1
+ULPN_SI7021 KEYWORD1
+ULPN_TSL2561 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getId KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TH02_I2C_ERR LITERAL1
+TH02_UNINITIALIZED_TEMP LITERAL1
+TH02_UNINITIALIZED_RH LITERAL1
+TH02_CONVERSION_TIME_OUT LITERAL1
